@@ -1,0 +1,16 @@
+{
+  "name": "VJ Adblocker",
+  "version": "1.0.0",
+  "description": "VJ's Personal Ad Blocker",
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "16": "icons/16x16.png",
+    "32": "icons/32X32.png",
+    "64": "icons/64x64.png",
+    "96": "icons/96x96.png"
+  },
+  "manifest_version": 2
+}
