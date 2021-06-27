@@ -1,7 +1,7 @@
 {
-  "name": "VJ Adblocker",
+  "name": "Adblockr",
   "version": "1.0.0",
-  "description": "VJ's Personal Ad Blocker",
+  "description": "A simple chrome adblock extension",
   "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
   "background": {
     "scripts": ["background.js"]
