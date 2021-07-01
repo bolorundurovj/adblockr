@@ -14,9 +14,9 @@
 
 > A simple chrome browser extension for blocking advertisements
 
-### 🏠 [Homepage](https://github.com/bolorundurovj/adblockr)
+### 🏠 [Homepage](https://chrome.google.com/webstore/detail/adblockr/klahleagodblabjppkegeolfbdmkccfl)
 
-### ✨ [Demo](https://github.com/bolorundurovj/adblockr)
+### ✨ [Docs](https://github.com/bolorundurovj/adblockr)
 
 ## Author
 
