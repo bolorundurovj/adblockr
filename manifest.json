@@ -11,7 +11,7 @@
     "32": "icons/32X32.png",
     "64": "icons/64x64.png",
     "96": "icons/96x96.png",
-    "128": "icons/128x128.png",
+    "128": "icons/128x128.png"
   },
   "manifest_version": 2
 }
