@@ -11,6 +11,11 @@ const defaultFilters = [
   '*://*.exponential.com/*',
   '*://*.creative.ak.fbcdn.net/*',
   '*://*.google-analytics.com/*',
+  '*://*.kevel.co/*',
+  '*://*.smartadserver.com/*',
+  '*://*.magnite.com/*',
+  '*://*.broadstreetads.com/*',
+  '*://*.adgear.com/*',
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(
