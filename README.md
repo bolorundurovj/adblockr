@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> A simple chrome browser extension for blocking advertisements
+> A simple chrome browser extension for blocking unwanted advertisements.
 
 ### 🏠 [Homepage](https://chrome.google.com/webstore/detail/adblockr/klahleagodblabjppkegeolfbdmkccfl)
 
